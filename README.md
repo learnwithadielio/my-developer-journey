@@ -9,3 +9,8 @@ Learning the foundations of software engineering while using AI as a development
 - Build projects with AI assistance
 - Understand every important change before accepting it
 - Use Git and GitHub consistently
+
+## What I Learned
+
+- How to inspect file changes before staging
+- How to review AI-assisted changes before accepting them
