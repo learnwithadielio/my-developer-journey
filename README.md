@@ -2,9 +2,11 @@
 A project to document my journey learning software engineering and AI-assisted development.
 
 ## Current Focus
+
 Learning the foundations of software engineering while using AI as a development tool.
 
 ## Goals
+
 - Learn programming fundamentals
 - Build projects with AI assistance
 - Understand every important change before accepting it
@@ -14,3 +16,7 @@ Learning the foundations of software engineering while using AI as a development
 
 - How to inspect file changes before staging
 - How to review AI-assisted changes before accepting them
+
+## Day 3 Notes
+
+- Learned how to safely undo changes at different Git states.
