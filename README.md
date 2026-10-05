@@ -24,3 +24,10 @@ Learning the foundations of software engineering while using AI as a development
 ## Day 4 Progress
 
 - Learned to break large tasks into smaller changes.
+
+## Roadmap
+
+- Strengthen programming fundamentals
+- Build and refine small projects
+- Practice Git workflows
+- Explore AI-assisted development
