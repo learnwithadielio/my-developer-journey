@@ -20,3 +20,7 @@ Learning the foundations of software engineering while using AI as a development
 ## Day 3 Notes
 
 - Learned how to safely undo changes at different Git states.
+
+## Day 4 Progress
+
+- Learned to break large tasks into smaller changes.
