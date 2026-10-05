@@ -31,3 +31,8 @@ Learning the foundations of software engineering while using AI as a development
 - Build and refine small projects
 - Practice Git workflows
 - Explore AI-assisted development
+
+## Tools
+
+- Terminal and VS Code
+- Git and GitHub
