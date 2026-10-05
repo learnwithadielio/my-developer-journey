@@ -14,3 +14,5 @@ Learning the foundations of software engineering while using AI as a development
 
 - How to inspect file changes before staging
 - How to review AI-assisted changes before accepting them
+
+This line should not be here.
